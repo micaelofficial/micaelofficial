@@ -10,7 +10,7 @@ Hey there! I'm Michael, a passionate data scientist based in Guangzhou, China. A
 
 ## Projects
 
-### [Prologue: Guessing Game](https://github.com/micaelofficial/michaels_mind/blob/main/final_task/game.ipynb)
+### [Prologue: Guessing Game](https://github.com/micaelofficial/michaels_mind/blob/main/Project_Zero/game.ipynb)
 
 My inaugural project, the guessing game, marks my first step into the world of data science. It might not be perfect, but it showcases efficiency. Enjoy!
 
